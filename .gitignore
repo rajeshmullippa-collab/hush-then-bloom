@@ -1,0 +1,5 @@
+node_modules/
+dist/
+# The jam theme track (by Jason Grace) is not redistributed here; see README.
+web/theme.mp3
+electron/web/

@@ -1,0 +1,13 @@
+{
+  "name": "hush-then-bloom",
+  "productName": "Hush, Then Bloom",
+  "version": "1.0.0",
+  "description": "A small wordless journey for thatgamejam #02",
+  "main": "main.js",
+  "author": "Rajesh Mullippa",
+  "license": "MIT",
+  "devDependencies": {
+    "@electron/packager": "^20.3.0",
+    "electron": "^45.2.1"
+  }
+}
